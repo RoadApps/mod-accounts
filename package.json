@@ -1,0 +1,16 @@
+{
+  "name": "RoadAppsAccount",
+  "description": "RoadApps Account Manager Module",
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "passport"
+  ],
+  "version": "1.0.0",
+  "private": true,
+  "author": "Diogo Nechtan <nechtan@me.com> (http://nechtan.github.io)",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "underscore": "^1.6.0"
+  }
+}
